@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Desarrollo\\RutineCreator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC9E36D-2E58-4451-ABA9-5934D4CC3B4B}|RutineCreator.csproj|c:\\users\\nicol\\onedrive\\escritorio\\desarrollo\\rutinecreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC9E36D-2E58-4451-ABA9-5934D4CC3B4B}|RutineCreator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Desarrollo\\RutineCreator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Desarrollo\\RutineCreator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAANwBAAAAAAAAAAAwwOkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:00:34.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
